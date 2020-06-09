@@ -1,6 +1,6 @@
 # IntentImplicit-kotlin
 
-![untitled](https://user-images.githubusercontent.com/43386555/84180131-372f4700-aab1-11ea-8212-de2bea12c8b0.gif)
+![ezgif com-resize (1)](https://user-images.githubusercontent.com/43386555/84182967-6c3d9880-aab5-11ea-96e2-bf6db19d8e4f.gif)
 
 1. buat class baru dengan nama MoveForResultActivity
 2. Selanjutnya buat layout radioButtonGroup dan chaild
